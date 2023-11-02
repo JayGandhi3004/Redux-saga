@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "jay",
+      "author": "gandhi",
+      "id": 1
+    },
+    {
+      "title": "ayyu",
+      "author": "rajani",
+      "id": 2
+    },
+    {
+      "title": "jay",
+      "author": "jay",
+      "id": 3
+    }
+  ]
+}
